@@ -14,3 +14,6 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+body {
+  background: linear-gradient(135deg, rgba(203,213,225,1) 0%, rgba(202,196,229,1) 71%);
+}
